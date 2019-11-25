@@ -36917,10 +36917,10 @@ s.push(u.hc("BUMBLEBEE ANDROID APPLICATION \u2014 PERSONAL","Android spelling-be
 s.push(u.hc("NIGHT SHEMA REMINDER ANDROID APPLICATION \u2014 PERSONAL","Android application that makes use of the users geolocation and an external library to calculate the time of nightfall according to jewish law and send a reminder to the user. This app is published in the Google Play Store.",t))
 return s},
 hc:function(a,b,c){var u=null
-return new T.cM(C.aj,new V.w6(new T.cM(C.aj,T.VA(H.b([L.e_(a,A.cS(u,u,u,u,u,u,u,u,u,u,u,10,u,C.at,u,5,!0,u,u,u,u,u,u),u),L.e_(b,u,u),N.JU(U.zI("GitHub-Mark/PNG/GitHub-Mark-120px-plus.png",16,16),L.e_("GitHub Link",u,u),new N.DK(c))],[N.aZ]),C.du,C.hK),u),u),u)},
+return new T.cM(C.aj,new V.w6(new T.cM(C.aj,T.VA(H.b([L.e_(a,A.cS(u,u,u,u,u,u,u,u,u,u,u,10,u,C.at,u,5,!0,u,u,u,u,u,u),u),L.e_(b,u,u),N.JU(U.zI("images/GitHub-Mark/PNG/GitHub-Mark-120px-plus.png",16,16),L.e_("GitHub Link",u,u),new N.DK(c))],[N.aZ]),C.du,C.hK),u),u),u)},
 yI:function(){var u=null,t=this.qS().length
 return new T.bT(C.y,u,u,new T.dp(450,u,new B.or(new G.Gi(new N.DL(this),t,!0,!0,!0),u,C.p,!1,u,!0,C.iq,!1,u,t,C.a9,u),u),u)},
-L:function(a){var u=null,t=X.Ps(C.O,u,u),s=L.e_("Projects",A.cS(u,u,C.l,u,u,u,u,u,u,u,u,u,u,u,u,u,!0,u,u,u,u,u,u),u),r=S.ek(u,u,u,u,u,X.Ov(C.dk,new L.hp("blueprint.jpg",u,u)),C.J)
+L:function(a){var u=null,t=X.Ps(C.O,u,u),s=L.e_("Projects",A.cS(u,u,C.l,u,u,u,u,u,u,u,u,u,u,u,u,u,!0,u,u,u,u,u,u),u),r=S.ek(u,u,u,u,u,X.Ov(C.dk,new L.hp("images/blueprint.jpg",u,u)),C.J)
 return K.S6(M.RZ(new E.mN(new T.bT(C.y,u,u,s,u),0,C.bQ,new T.cq(C.l,u,u),!0,0,new P.N(1/0,56),u),M.hy(u,this.yI(),u,u,r,u,u,u,u)),t,!1)}}
 N.DK.prototype={
 $0:function(){$.UN().I4("open",[this.a])},
@@ -37297,8 +37297,8 @@ L:function(a){return new S.ov(new F.oG(null),"Ephraim Hammer",X.Ps(C.K,"Gilberto
 F.oG.prototype={
 aR:function(){return new F.Lh(C.t)}}
 F.Lh.prototype={
-L:function(a){var u,t,s=null,r=S.ek(s,s,s,s,s,X.Ov(C.dk,new L.hp("blueprint.jpg",s,s)),C.J),q=[N.aZ]
-q=H.b([new T.cM(C.aj,new T.bT(C.y,s,s,M.hy(s,s,s,s,S.ek(s,s,s,s,s,X.Ov(C.dk,new L.hp("profilpic.png",s,s)),C.aE),150,s,s,150),s),s),new T.bT(C.y,s,s,new T.cM(C.aj,L.e_("Ephraim Hammer",A.cS(s,s,s,s,s,s,s,s,"Gilberto",s,s,65,s,C.at,s,s,!0,s,s,s,s,s,s),C.f7),s),s),new T.bT(C.y,s,s,new T.cM(C.aj,L.e_("I design and code beautifully simple things, and I love what I do.",s,s),s),s),new T.dp(s,50,s,s),T.RY(H.b([new T.bT(C.y,s,s,N.JU(U.zI("projects.png",32,s),L.e_("Projects",A.cS(s,s,s,s,s,s,s,s,s,s,s,s,s,C.at,s,s,!0,s,s,s,s,s,s),s),new F.Ll(a)),s),new T.bT(C.y,s,s,N.JU(U.zI("GitHub-Mark/PNG/GitHub-Mark-Light-32px.png",32,s),L.e_("GitHub",A.cS(s,s,s,s,s,s,s,s,s,s,s,s,s,C.at,s,s,!0,s,s,s,s,s,s),s),new F.Lm(a)),s),new T.bT(C.y,s,s,N.JU(U.zI("cv.png",32,s),L.e_("Resume",A.cS(s,s,s,s,s,s,s,s,s,s,s,s,s,C.at,s,s,!0,s,s,s,s,s,s),s),new F.Ln(a)),s)],q),C.fv,C.jP,C.hL)],q)
+L:function(a){var u,t,s=null,r=S.ek(s,s,s,s,s,X.Ov(C.dk,new L.hp("images/blueprint.jpg",s,s)),C.J),q=[N.aZ]
+q=H.b([new T.cM(C.aj,new T.bT(C.y,s,s,M.hy(s,s,s,s,S.ek(s,s,s,s,s,X.Ov(C.dk,new L.hp("images/profilpic.png",s,s)),C.aE),150,s,s,150),s),s),new T.bT(C.y,s,s,new T.cM(C.aj,L.e_("Ephraim Hammer",A.cS(s,s,s,s,s,s,s,s,"Gilberto",s,s,65,s,C.at,s,s,!0,s,s,s,s,s,s),C.f7),s),s),new T.bT(C.y,s,s,new T.cM(C.aj,L.e_("I design and code beautifully simple things, and I love what I do.",s,s),s),s),new T.dp(s,50,s,s),T.RY(H.b([new T.bT(C.y,s,s,N.JU(U.zI("images/projects.png",32,s),L.e_("Projects",A.cS(s,s,s,s,s,s,s,s,s,s,s,s,s,C.at,s,s,!0,s,s,s,s,s,s),s),new F.Ll(a)),s),new T.bT(C.y,s,s,N.JU(U.zI("images/GitHub-Mark/PNG/GitHub-Mark-Light-32px.png",32,s),L.e_("GitHub",A.cS(s,s,s,s,s,s,s,s,s,s,s,s,s,C.at,s,s,!0,s,s,s,s,s,s),s),new F.Lm(a)),s),new T.bT(C.y,s,s,N.JU(U.zI("images/cv.png",32,s),L.e_("Resume",A.cS(s,s,s,s,s,s,s,s,s,s,s,s,s,C.at,s,s,!0,s,s,s,s,s,s),s),new F.Ln(a)),s)],q),C.fv,C.jP,C.hL)],q)
 u=P.bf([null,0],D.fy,P.j)
 t=q.length
 return M.RZ(s,M.hy(s,new T.bT(C.y,s,s,new B.or(new G.Gk(!0,!0,!0,q,u),s,C.p,!1,s,!0,C.iq,!1,s,t,C.a9,s),s),s,s,r,s,s,s,s))},
