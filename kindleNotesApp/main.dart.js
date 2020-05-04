@@ -33421,15 +33421,13 @@ t.D=t.cb
 t.ai=!1},
 yD:function(){this.ai=this.D=null
 this.aj()},
-shl:function(a,b){var t=this
-if(b==t.a7)return
-t.a7=b
-t.aj()
-if(t.a2==null||t.C==null)t.P()},
-saW:function(a,b){if(b==this.a2)return
+shl:function(a,b){if(b==this.a7)return
+this.a7=b
+this.aj()},
+saW:function(a,b){if(b===this.a2)return
 this.a2=b
 this.P()},
-sb_:function(a,b){if(b==this.C)return
+sb_:function(a,b){if(b===this.C)return
 this.C=b
 this.P()},
 sDY:function(a,b){if(b===this.a8)return
@@ -41766,7 +41764,8 @@ P9:function(){var t=F.cq(this.c,!0)
 t=t==null?null:t.ch
 this.x=t==null?(2&$.As.e3$.a)!==0:t},
 zm:function(){var t=this,s=t.Q,r=t.a,q=r.c,p=t.c,o=r.r
-t.Pg(new Y.qR(s,q,u.sv).at(U.ZL(p,o!=null&&r.x!=null?new P.T(o,r.x):null)))},
+r=r.x
+t.Pg(new Y.qR(s,q,u.sv).at(U.ZL(p,new P.T(o,r))))},
 K_:function(a){var t=this,s=t.a
 s.toString
 t.cx=t.ch=null
@@ -45038,7 +45037,7 @@ r=t.length
 return Q.Ad(!0,new B.pE(new G.Qo(!0,!0,!0,t,s),q,C.t,!1,q,!0,C.nr,!1,q,r,C.a7,C.qH,q),C.aA,!0)}},
 vs:function(a){var t,s=this,r=null,q=s.r,p=L.df("",r,q.f)
 p=Q.Mz(r,r,L.df("",r,q.z),p,r)
-q=Q.Mz(r,new A.TC(s,a),r,L.df("All books",r,r),new U.lm(new L.nZ("assets/icons/bookshelve.png"),r,r,r))
+q=Q.Mz(r,new A.TC(s,a),r,L.df("All books",r,r),new U.lm(new L.nZ("assets/icons/bookshelve.png"),24,24,r))
 t=s.e.c
 t=t.gl(t)
 return new Z.wN(Q.Ad(!0,T.Y4(H.c([p,new Z.wD(r),new T.cT(C.bg,q,r),T.Ye(new B.pE(new G.Qm(new A.TD(s,a),t,!0,!0,!0),C.bg,C.t,!1,r,!0,C.nr,!1,r,t,C.a7,C.qH,r))],u.F),C.jr),C.aA,!0),r)},
