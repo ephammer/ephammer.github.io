@@ -3,7 +3,7 @@ const CACHE_NAME = 'flutter-app-cache';
 const RESOURCES = {
   "index.html": "3eb61d65490b4ada2a5940a61d62f0b6",
 "/": "3eb61d65490b4ada2a5940a61d62f0b6",
-"main.dart.js": "222848a2fecc914cdb77a7cf1bc397b1",
+"main.dart.js": "52b69d900517272c3068f3f47c306d42",
 "assets/LICENSE": "0355857b8dc7f180260f91c22aa17660",
 "assets/images/blueprint.jpg": "749d0c67be3d4866d81351acf0c48203",
 "assets/images/projects.png": "ff7de4a91a78264081285450cd61e1ec",
@@ -15,6 +15,7 @@ const RESOURCES = {
 "assets/images/GitHub-Mark/PNG/GitHub-Mark-Light-64px.png": "eb94bb97c3410733ce017b184d314723",
 "assets/images/GitHub-Mark/Vector/GitHub-Mark.eps": "8d6f6ff0bcc4512f99f05758b51590ec",
 "assets/images/GitHub-Mark/Vector/GitHub-Mark.ai": "d26611a8033adc15cdd0bb7837e6d5bb",
+"assets/images/profilpic_transparent.png": "0e683536d1a4da4bdc0c45d2c1281c82",
 "assets/images/profilpic.png": "ab8232c21c356685dafa762c8dbc7dd4",
 "assets/images/cv.png": "cd435e289008a4998322c1e62662708d",
 "assets/AssetManifest.json": "2efbb41d7877d10aac9d091f58ccd7b9",
