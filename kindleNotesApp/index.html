@@ -5,6 +5,31 @@
   <title>kindle_clippings</title>
 </head>
 <body>
+  <script src="https://www.gstatic.com/firebasejs/7.14.3/firebase-app.js"></script>
+  <!-- STEP 1: Add SDKs for Firebase products that you want to use
+       https://firebase.google.com/docs/web/setup#available-libraries -->
+  <script src="https://www.gstatic.com/firebasejs/7.14.3/firebase-auth.js"></script>
+  <script src="https://www.gstatic.com/firebasejs/7.14.3/firebase-analytics.js"></script>
+  <script src="https://www.gstatic.com/firebasejs/7.14.3/firebase-firestore.js"></script>
+
+  <!-- STEP 2: Initialize Firebase with configuration -->
+  <script>
+    // Your web app's Firebase configuration
+    var firebaseConfig = {
+      apiKey: "AIzaSyDUrY6MUvCsKBhwVkdd6A3qFpcjnHcOGAg",
+      authDomain: "highlights-53169.firebaseapp.com",
+      databaseURL: "https://highlights-53169.firebaseio.com",
+      projectId: "highlights-53169",
+      storageBucket: "highlights-53169.appspot.com",
+      messagingSenderId: "301969546654",
+      appId: "1:301969546654:web:3246c5a122a134e8010a8f",
+      measurementId: "G-R1VNJKM8S6"
+    };
+    // Initialize Firebase
+    firebase.initializeApp(firebaseConfig);
+    firebase.analytics();
+  </script>
+
   <script src="main.dart.js" type="application/javascript"></script>
 </body>
 </html>
