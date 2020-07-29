@@ -7247,8 +7247,7 @@ _.x=!1
 _.y=""
 _.Q=_.z=null
 _.ch=1000
-_.dx=!0
-_.dy=!1
+_.dy=_.dx=!0
 _.fr=0
 _.fx=b
 _.a=null
@@ -26785,7 +26784,7 @@ n=F.b7(a1,!1).a
 m=new P.aW(12,12)
 l=new P.aW(10,10)
 l=Z.a2X(!0,a0,!1,a0,a.r,a0,a0,2,L.ZQ(a0,a0,a0,a0,a0,a0,a0,!0,new F.dL(4,new K.bo(m,m,m,m),new Y.de(C.A7,2,C.T)),a0,a0,a0,a0,C.O,!0,C.j4,a0,new F.dL(4,new K.bo(l,l,l,l),new Y.de(C.mG,1,C.T)),a0,!0,a0,a0,a0,a0,a0,"Enter a hebrew text",a0,a0,!1,a0,a0,a0,a0,a0,a0,a0,a0,a0,a0,a0,a0,a0,a0),!0,!0,a0,!1,a0,a0,a0,C.tq,a0,!0,10,a0,!1,"\u2022",a0,a0,a0,a0,!1,C.pI,a0,a0,a0,a0,a0,a0,C.aZ,a0,C.tl,C.j,a0,a0)
-m=L.cs("Only letters",a0,a0,a0,a0,a0)
+m=L.cs("Count Nikud",a0,a0,a0,a0,a0)
 k=N.a2T(new F.VH(a),a.dy)
 j=L.cs("Count spaces",a0,a0,a0,a0,a0)
 i=N.a2T(new F.VI(a),a.dx)
