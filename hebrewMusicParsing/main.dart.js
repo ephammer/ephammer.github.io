@@ -29140,15 +29140,25 @@ mP:function(a){var s=0,r=P.a4(t.z),q=this,p,o,n,m,l,k,j
 var $async$mP=P.Z(function(b,c){if(b===1)return P.a1(c,r)
 while(true)switch(s){case 0:j=H.d([],t.ku)
 P.cV(a)
-for(p=J.aQ(a);p.q();){o=p.gB(p)
-n=q.fr
-m=Math.abs(n)+1
-if(n<0){o.toString
-o/=m}else{o.toString
-o*=m}n=q.ch
-if(o<0)H.E(P.cg("Frequency cannot be less than zero"))
-if(n<0)H.E(P.cg("Duration cannot be less than zero"))
-j.push(new G.hR(o,n,C.tR,1))}q.as(new F.Xp(q,j))
+switch(q.fr){case-3:p=0.125
+break
+case-2:p=0.25
+break
+case-1:p=0.5
+break
+case 0:p=1
+break
+case 1:p=2
+break
+case 2:p=4
+break
+case 3:p=8
+break
+default:p=1}for(o=J.aQ(a);o.q();){n=o.gB(o)*p
+m=q.ch
+if(n<0)H.E(P.cg("Frequency cannot be less than zero"))
+if(m<0)H.E(P.cg("Duration cannot be less than zero"))
+j.push(new G.hR(n,m,C.tR,1))}q.as(new F.Xp(q,j))
 s=2
 return P.ac(U.aeI().$2$2(new G.CP(44100,C.lL).gGr(),q.f,t.fq,t.bV),$async$mP)
 case 2:l=c
